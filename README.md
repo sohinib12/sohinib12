@@ -7,7 +7,7 @@ A passionate software developer from Sanfransico
 🌱 I’m currently learning JavaScript and Node.js
 
 
-![Linkedin](https://www.linkedin.com/in/sohini-bonthala-9373b2111)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)(https://www.linkedin.com/in/sohini-bonthala-9373b2111)
 
 
 💻 **Languages and Tools:** 🛠️<br>
