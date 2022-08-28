@@ -1,7 +1,7 @@
 
 # Hello 👋, I'm Sohini Bonthala
 
-A passionate software developer from Sanfransico
+A passionate software developer from Sanfrancisco
 
 ✏️ I'm currently studying @ AppAcademy
 🌱 I’m currently learning JavaScript and Node.js
