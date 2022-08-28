@@ -7,7 +7,7 @@ A passionate software developer from Sanfransico
 🌱 I’m currently learning JavaScript and Node.js
 
 
-[![Linkedin](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BImL5fQucQpSYbWdE2vH%2B1A%3D%3D)(https://www.linkedin.com/in/sohini-bonthala-9373b2111)
+[![Linkedin](https://www.linkedin.com/in/sohini-bonthala-9373b2111/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BImL5fQucQpSYbWdE2vH%2B1A%3D%3D)(https://www.linkedin.com/in/sohini-bonthala-9373b2111)
 
 
 💻 **Languages and Tools:** 🛠️<br>
