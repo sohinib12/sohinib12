@@ -1,5 +1,5 @@
 
-Hello 👋, I'm Sohini Bonthala
+##Hello 👋, I'm Sohini Bonthala
 
 A passionate software developer from Sanfransico
 
@@ -8,7 +8,7 @@ A passionate software developer from Sanfransico
 
 
 Connect with me:
-https://www.linkedin.com/in/sohini-bonthala-9373b2111/
+[ https://www.linkedin.com/in/sohini-bonthala-9373b2111/ ]
 
 Languages and Tools:
 
