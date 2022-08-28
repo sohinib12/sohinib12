@@ -1,9 +1,10 @@
-
+<!--
 ## Complete list of github markdown emoji markup
 https://gist.github.com/rxaviers/7360908
 
 ## technologies Icons 
 https://simpleicons.org/
+-->
 
 <h1 align='center'><samp><strong>Hello 👋, I am Sohini Bonthala</strong></samp></h1>
 A passionate software developer from Sanfrancisco
