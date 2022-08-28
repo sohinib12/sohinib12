@@ -10,7 +10,7 @@ https://simpleicons.org/
 A passionate software developer from Sanfrancisco
 
 ✏️ I'm currently studying @ AppAcademy
-🌱 I’m currently learning JavaScript and Node.js
+🌱 I’m learning JavaScript and Node.js
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-sohini--bonthala-blue)](https://www.linkedin.com/in/sohini-bonthala-9373b2111)
