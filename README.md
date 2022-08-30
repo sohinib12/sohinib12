@@ -9,7 +9,9 @@ https://simpleicons.org/
 <h1 align='center'><samp><strong>Hello 👋, I am Sohini Bonthala</strong></samp></h1>
 A passionate software developer from Sanfrancisco
 
+
 I'm currently studying @ AppAcademy
+
 I’m learning JavaScript and Node.js
 
 
