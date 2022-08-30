@@ -9,8 +9,8 @@ https://simpleicons.org/
 <h1 align='center'><samp><strong>Hello 👋, I am Sohini Bonthala</strong></samp></h1>
 A passionate software developer from Sanfrancisco
 
-✏️ I'm currently studying @ AppAcademy
-🌱 I’m learning JavaScript and Node.js
+I'm currently studying @ AppAcademy
+I’m learning JavaScript and Node.js
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-sohini--bonthala-blue)](https://www.linkedin.com/in/sohini-bonthala-9373b2111)
