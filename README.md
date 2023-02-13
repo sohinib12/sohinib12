@@ -27,3 +27,4 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 
+[![Sohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohinib12)](https://github.com/sohinib12/github-readme-stats)
