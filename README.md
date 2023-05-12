@@ -5,11 +5,26 @@ https://gist.github.com/rxaviers/7360908
 ## technologies Icons 
 https://simpleicons.org/
 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%b498d4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Sohini Bonthala+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
-<h1 align='center'><samp><strong>Hello 👋, I am Sohini Bonthala</strong></samp></h1>
-A passionate software developer from Sanfrancisco
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 I am a recent graduate from App Academy where I developed a strong foundation in software development. During my time there, I learned a variety of programming languages and had the opportunity to apply my skills to both solo and collaborative full-stack projects. I am now eager to apply my skills and continue growing as a software developer.
+
+<img src="https://i.pinimg.com/564x/b5/bf/dd/b5bfddfb10fa15d1e77e37dfff5159b1.jpg" height="25"/>
+  &nbsp;
+
+- :mortar_board: I recently completed a 6-month full-stack software development program from **App Academy**.
+- :computer: My technical skills include proficiency in HTML, CSS, JavaScript, React, Redux,Python and SQL.
+- :house: I currently reside in **San Francisco, California**.
+- :sweat_smile: I'm always eager to learn new technologies and improve my coding skills.
+- :dancer: I love dancing and I also enjoy playing sports.
+- :camera: When I'm not coding, I enjoy hiking, and traveling to new places.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/my-drive).
+- :boom: You can visit [MY WEBSITE](https://sohinib12.github.io/).
+- :speech_balloon: My favorite quote is **_"The only way to do great work is to love what you do"_** by Steve Jobs.
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-sohini--bonthala-blue)](https://www.linkedin.com/in/sohini-bonthala-9373b2111)
@@ -24,7 +39,20 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
 
 [![Sohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohinib12)](https://github.com/sohinib12/github-readme-stats)
