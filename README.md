@@ -5,16 +5,17 @@ https://gist.github.com/rxaviers/7360908
 ## technologies Icons 
 https://simpleicons.org/
 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%b498d4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Sohini Bonthala+%3C3;Welcome+to+my+profile!" alt="Title"></img>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Satisfy&size=25&pause=1000&color=B498D4&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+playground%2C+;where+imagination+meets+innovation.)](https://git.io/typing-svg)
+
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 I am a recent graduate from App Academy where I developed a strong foundation in software development. During my time there, I learned a variety of programming languages and had the opportunity to apply my skills to both solo and collaborative full-stack projects. I am now eager to apply my skills and continue growing as a software developer.
 
-<img src="https://i.pinimg.com/564x/b5/bf/dd/b5bfddfb10fa15d1e77e37dfff5159b1.jpg" height="25"/>
+
+<img src="https://i.pinimg.com/564x/b5/bf/dd/b5bfddfb10fa15d1e77e37dfff5159b1.jpg" align="right"  width="500" height="320"/>
   &nbsp;
+
 
 - :mortar_board: I recently completed a 6-month full-stack software development program from **App Academy**.
 - :computer: My technical skills include proficiency in HTML, CSS, JavaScript, React, Redux,Python and SQL.
@@ -27,17 +28,18 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 - :speech_balloon: My favorite quote is **_"The only way to do great work is to love what you do"_** by Steve Jobs.
 
 
+
 [![Linkedin](https://img.shields.io/badge/linkedin-sohini--bonthala-blue)](https://www.linkedin.com/in/sohini-bonthala-9373b2111)
 
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
