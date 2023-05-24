@@ -58,4 +58,3 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 
 
 [![Sohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohinib12)](https://github.com/sohinib12/github-readme-stats)
-[SohiniBonthala-Resume.pdf](https://github.com/sohinib12/sohinib12/files/11558159/SohiniBonthala-Resume.pdf)
