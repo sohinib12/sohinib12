@@ -23,7 +23,7 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 - :sweat_smile: I'm always eager to learn new technologies and improve my coding skills.
 - :dancer: I love dancing and I also enjoy playing sports.
 - :camera: When I'm not coding, I enjoy hiking, and traveling to new places.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/my-drive).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/sohinib12/sohinib12/files/11558159/SohiniBonthala-Resume.pdf).
 - :boom: You can visit [MY WEBSITE](https://sohinib12.github.io/).
 - :speech_balloon: My favorite quote is **_"The only way to do great work is to love what you do"_** by Steve Jobs.
 
@@ -58,3 +58,4 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 
 
 [![Sohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohinib12)](https://github.com/sohinib12/github-readme-stats)
+[SohiniBonthala-Resume.pdf](https://github.com/sohinib12/sohinib12/files/11558159/SohiniBonthala-Resume.pdf)
