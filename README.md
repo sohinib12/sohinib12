@@ -18,12 +18,12 @@ I am a recent graduate from App Academy where I developed a strong foundation in
 
 
 - :mortar_board: I recently completed a 6-month full-stack software development program from **App Academy**.
-- :computer: My technical skills include proficiency in HTML, CSS, JavaScript, React, Redux,Python and SQL.
-- :house: I currently reside in **San Francisco, California**.
+- :computer: My technical skills include proficiency in HTML, CSS, JavaScript, React, Redux, Python, and SQL.
+- :house: I currently reside in **SAN FRANCISCO, CALIFORNIA**.
 - :sweat_smile: I'm always eager to learn new technologies and improve my coding skills.
 - :dancer: I love dancing and I also enjoy playing sports.
 - :camera: When I'm not coding, I enjoy hiking, and traveling to new places.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :thinking: I’m currently open to a new `job opportunity`.
 - :boom: You can visit [MY WEBSITE](https://sohinib12.github.io/).
 - :speech_balloon: My favorite quote is **_"The only way to do great work is to love what you do"_** by Steve Jobs.
 
