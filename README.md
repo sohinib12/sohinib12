@@ -1,5 +1,5 @@
 <!--
-## Complete list of github markdown emoji markup
+## Complete list of GitHub markdown emoji markup
 https://gist.github.com/rxaviers/7360908
 
 ## technologies Icons 
